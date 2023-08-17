@@ -1,0 +1,5 @@
+{{#user}
+Name: Ayush Kumar Singh
+Skills: Python, React, HTML, CSS, POSTGRESQL
+Email: ayushsingh.rv123@gmail.com
+{{/user}}
